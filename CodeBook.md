@@ -4,7 +4,7 @@ output: html_document
 ---
 | Variable | Type of data  | Description  | Posible values |
 | :------- |:--------------| :----------- | :--------------|
-| activity | character     | Type of activity.| WALKING, WALKING_UPSTAIRS,WALKING_DOWNSTAIRS,SITTING,STANDING,LAYING|
+| activity | character     | Type of activity.| WALKING, WALKING_UPSTAIRS,WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING|
 | subjectid     | numeric       | Identifier of the individual who submitted the data.  |1-30|
 | tBodyAcc-mean()-X |numeric|Mean value for X-axial acceleroscope data for body motion|positive or negative numeric value with up to 15 decimals|
 | tBodyAcc-mean()-Y |numeric|Mean value for Y-axial acceleroscope data for body motion|positive or negative numeric value with up to 15 decimals| 
